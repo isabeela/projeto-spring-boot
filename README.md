@@ -1,6 +1,6 @@
 # isabe
 
-A new Flutter project.
+A new Java project.
 
 ## Getting Started
 
